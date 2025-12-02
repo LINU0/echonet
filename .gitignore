@@ -5,3 +5,13 @@ echonet.cfg
 .echonet.cfg
 *.pyc
 echonet.egg-info/
+*.avi
+*.mp4
+*.dcm
+*.csv
+*.pdf
+/Volume/
+*.pth
+*.pt
+*.ckpt
+__pycache__/
